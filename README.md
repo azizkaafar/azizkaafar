@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Aziz Kaafar</h1>
-<h3 align="center">IT student and Front-end Web Developer</h3>
+<h3 align="center">IT student passionate about Web & Video Game development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azizkaafar&label=Profile%20views&color=0e75b6&style=flat" alt="azizkaafar" /> </p>
 
